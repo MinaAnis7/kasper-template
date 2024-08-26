@@ -4,6 +4,9 @@
 - *Kasper* is a **responsive** website with a visually stunning design, crafted to adapt seamlessly across various screen sizes.
 - This project is an implementation of a PSD design exists in the following link: https://www.graphberry.com/item/kasper-one-page-psd-template
 
+## Live Demo
+If you want to take a closer look at the webpage and check how responsive it is, please visit the following link: https://minaanis7.github.io/kasper-template/
+
 ## Screenshots
 - Header and Landing Page
   <img src="screenshots/1.png" />
@@ -29,9 +32,6 @@
   <img src="screenshots/14.png" />
 - Footer
   <img src="screenshots/15.png" />
-
-## Live Demo
-If you want to take a closer look at the webpage and check how responsive it is, please visit the following link:
 
 ## Languages Use
 - HTML
