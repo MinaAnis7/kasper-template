@@ -26,13 +26,13 @@ If you want to take a closer look at the webpage and check how responsive it is,
   <img src="screenshots/10.png" />
 - Pricing Section
   <img src="screenshots/11.png" /> &nbsp; &nbsp; <img src="screenshots/12.png" />
-- Email Subscribtion
+- Email Subscription
   <img src="screenshots/13.png" />
 - Contact Us
   <img src="screenshots/14.png" />
 - Footer
   <img src="screenshots/15.png" />
 
-## Languages Use
+## Languages Used
 - HTML
 - CSS
