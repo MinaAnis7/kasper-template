@@ -33,6 +33,8 @@ If you want to take a closer look at the webpage and check how responsive it is,
 - Footer
   <img src="screenshots/15.png" />
 
-## Languages Used
+## Languages and Libraries Used
 - HTML
 - CSS
+- Font Awesome Free v6.6.0
+- Normailze.css v8.0.1
